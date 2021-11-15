@@ -1,6 +1,6 @@
 # Miscellaneous puzzles
 Simple(ish) puzzles and utilities
-This repository isn't intended to be stanbdalone project, but a collection of bits and pieces on a theme
+This repository isn't intended to be stand alone project, but a collection of bits and pieces on a theme, when I pull them from elsewhere.
 
 ## Rotating annular puzzle
 
